@@ -1,0 +1,11 @@
+mongodb:
+  credentials:
+    exists: "0"
+    login: ""
+    password: ""
+  address:
+    ip: "localhost"
+    port: "7555"
+    db: "test"
+server:
+  port: "8000"
